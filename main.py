@@ -68,8 +68,8 @@ def main():
 
     queries_list = fetch_queries()
 
-    API_key="AIzaSyAR1Dvdd-uHJYCiB5zjyit8mqnTYbBd9GU"
-    cx="3300dbc29ad7543ab"
+    API_key="key"
+    cx="cx"
     query='ADS024'
 
     google_custom_search(API_key, cx, queries_list)
