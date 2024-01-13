@@ -7,9 +7,6 @@ from email.mime.image import MIMEImage
 import ssl
 import smtplib
 
-
-os.chdir("C:/Users/chris/OneDrive/Desktop/google_scraper")
-
 def fetch_queries():
 
     queries = []
@@ -192,7 +189,7 @@ def main():
 
     queries_list = fetch_queries()
 
-    API_key="AIzaSyAR1Dvdd-uHJYCiB5zjyit8mqnTYbBd9GU"
+    API_key= os.environ["API_KEY"]
     cx="c7033df14fbab445f"
 
     for query in queries_list:
@@ -205,7 +202,7 @@ def main():
 
         formatted_email = html_formatting(formatted_email_body)
         email_sender = 'automatedscrapingbot@gmail.com'
-        email_password = 'iitl ngyc vmcl vfui'
+        email_password = os.environ["PASSWORD"]
         email_receiver = 'christopher.palmer32@gmail.com'
 
         send_email(formatted_email, email_sender, email_password, email_receiver)
