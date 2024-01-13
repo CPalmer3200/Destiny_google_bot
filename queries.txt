@@ -1,1 +1,18 @@
 Acurx AND (Ibezapolstat OR ACX-362E)
+(Artugen Therapeutics OR ADISO Therapeutics) AND (ADS024 OR ART24)
+Biomica AND BMC202
+Enterobiotix AND CDI
+Exeliome Biosciences
+Microbiotica
+Pfizer AND CLOVER project
+Rebiotix AND (Rebyota OR RBX 2660)
+Seres Therapeutics AND SER-109
+Summit Therapeutics AND (Ridinilazole OR SMT19969)
+Vedanta AND VE303
+Verb Biotics
+Paratek Pharma AND Omadacycline
+MGB Biopharma AND MGB-BP-3
+Valneva AND VLA84
+Crestone Pharma AND CRS3123
+Open Biome AND FMT
+Ondine AND Steriwave
