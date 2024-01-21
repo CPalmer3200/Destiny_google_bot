@@ -1,10 +1,10 @@
 Acurx AND (Ibezapolstat OR ACX-362E)
 (Artugen Therapeutics OR ADISO Therapeutics) AND (ADS024 OR ART24)
 Biomica AND BMC202
-Enterobiotix AND CDI
+Enterobiotix AND (CDI OR clostridium difficile infection)
 Exeliome Biosciences
 Microbiotica
-Pfizer AND CLOVER project
+Pfizer AND CLOVER
 Rebiotix AND (Rebyota OR RBX 2660)
 Seres Therapeutics AND SER-109
 Summit Therapeutics AND (Ridinilazole OR SMT19969)
@@ -14,5 +14,5 @@ Paratek Pharma AND Omadacycline
 MGB Biopharma AND MGB-BP-3
 Valneva AND VLA84
 Crestone Pharma AND CRS3123
-Open Biome AND FMT
+OpenBiome AND (FMT OR Faecal microbiota transplantation)
 Ondine AND Steriwave
