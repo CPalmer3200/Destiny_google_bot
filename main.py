@@ -203,7 +203,7 @@ def main():
         formatted_email = html_formatting(formatted_email_body)
         email_sender = 'automatedscrapingbot@gmail.com'
         email_password = os.environ["PASSWORD"]
-        email_receiver = 'christopher.palmer32@gmail.com'
+        email_receiver = 'wl@destinypharma.com'
 
         send_email(formatted_email, email_sender, email_password, email_receiver)
         print(formatted_email_body)
