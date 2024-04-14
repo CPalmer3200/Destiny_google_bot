@@ -1,5 +1,5 @@
 Acurx AND (Ibezapolstat OR ACX-362E)
-(Artugen Therapeutics OR ADISO Therapeutics) AND (ADS024 OR ART24)
+(Artugen OR Adiso) AND (ADS024 OR ART24)
 Biomica
 EnteroBiotix
 Exeliom
