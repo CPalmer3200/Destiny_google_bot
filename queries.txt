@@ -5,7 +5,7 @@ Enterobiotix AND (CDI OR clostridium difficile infection)
 Exeliome Biosciences
 Microbiotica
 Pfizer AND CLOVER
-Rebiotix AND (Rebyota OR RBX 2660)
+(Rebiotix OR Ferring) AND (Rebyota OR RBX2660 OR RBX-2660)
 Seres Therapeutics AND SER-109
 Summit Therapeutics AND (Ridinilazole OR SMT19969)
 Vedanta AND VE303
