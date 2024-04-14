@@ -2,7 +2,7 @@ Acurx AND (Ibezapolstat OR ACX-362E)
 (Artugen Therapeutics OR ADISO Therapeutics) AND (ADS024 OR ART24)
 Biomica AND BMC202
 Enterobiotix AND (CDI OR clostridium difficile infection)
-Exeliome Biosciences
+Exeliom
 Microbiotica
 Pfizer AND CLOVER
 (Rebiotix OR Ferring) AND (Rebyota OR RBX2660 OR RBX-2660)
